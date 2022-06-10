@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-compartible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initail-scale=1.0">
+    <link rel=" stylesheet" href="./css/style-for-post.css">
+    <title>| PROJECT 1 on Blog Website Blog Post</title>
+    
+</head>
+<body>
+    <header>
+        <h1><img src="./image/logo.png" height="60" width="58" alt="precious logo"> Precious Blog</h1>
+        <nav>
+            <ul>
+
+                <li><a href ='EDOWORX 1.html'>Home</li></a>
+                <li><a href ='blog post.html '>Post</li></a>
+                <li><a href ='about.html'>About</li></a>
+                <li><a href ='subscribe.html' class="btn btn_subscribe"><b>Subscribe </b></a></li>
+
+                
+                    
+            
+            </ul>
+          
+        </nav>
+        
+    </header> 
+
+    <div class='posts'>
+        <div class='social'>
+            <p>Share Blog Post on:</p>
+            <a href='facebook.com'> <img src="./image/fb.png"></a><br>
+            <a href='gmail.com'><img src="./image.gmail.png"></a><br>
+            <a href='twitter.com'><img src="./image/twitter.png"></a>
+
+        </div>
+        <div class='author'> <h1>Edoworx Precious Blog</h1>
+        <h2><img src='./image/face.png'height="60" width="65" alt="" />Esohe Precious </h2>
+           <h3 class= 'bio'>I am an indigene of Edo state. I live in Benin city.
+            <br> Learning front-end development with the Edoworx in partnership with udacity.
+            <br> <em>March 23 2022.</em></h3> 
+
+           <h3 class='wedding-cake'>
+              <h1><p><u>Wedding Cake</u></p></h1> 
+          <p>A wedding cake are made to bring good luck to all the guest and the couples.
+            In some parts of England, the wedding cake is served as breakfast; 
+            <em>Breakfast</em> does not mean the meal will be in the morning 
+            but at a time following the ceremony. A wedding cake is the traditional cake served at wedding receptions following dinner. 
+            Nowadays, however they are more of a centerpiece to the wedding and are not always even served to the guests. 
+            some cakes are built with single edible tiers for the bride and groom to share.
+             we have different types of wedding cakes; <li>Red Velvet Cake.</li> <li>chocolate Cake.</li> <li>Carrot Cake.</li> <li>Vanilla Cake.</li>
+             <li>Spice Cake.</li> <li>Caramel Banana Cake.</li> <li>Many More.</li>
+             <h4>Subscribe to our Blog, so you can see different recipes for this different types of cake when we post them.</h4>
+          </p>
+
+          <h1><u>Pastries</u></p></h1>
+          <p>Pastries  is a dough of flour, water and solids fats that may be  savoury or sweetened. Sweetend pastries are often describe as <em>Baker's Confectionery</em>
+           The word "Pastries" suggests many kinds of baked products. pastries are made from ingredient such as; flour, butter, baking powder,eggs etc.
+           we have different types of pastries:
+           <li>Shortcrust pastry.</li> <li>Flaky Pastries.</li> <li>Puff Pastries.</li> <li>Beef Bun Pastries.</li>
+           <li>Mince Pies Pastries.</li> <li>Croissant Pastries.</li> <li>Many More.</li>
+           <h4>Subscribe to our Blog, so you can see different recipes for this different types of Pastries when we post them.</h4>
+        </p>
+
+          <h1><p><u>Food</u></p></h1>
+          <p>Food substance consisting essentally of protein, carbonhydrate,
+               fat and other nutrient used in the body of an organism to substain growth and vital processes and furnish energy. 
+               food is usually of plant, animal or funigal origin and contains essential nutrient.
+               in Nigeria, every wedding serves his guest with good food. most guest will expect to get fed when you invite them to celebrate your big day.
+               Your wedding food selection will depend on the theme and style of your wedding as well as the time of day your wedding takes place.
+               Here is the three most popular wedding food.
+               <li><u>Appetiser:</u> is a tasting menu alternative to the sit down dinner. if you are planning a relatively short wedding reception and suit a cocktail party style.
+                Appetiser typically works out a lot cheaper than a full meals examples are colourful sushi, miniature dessert,small chops etc. </li>
+
+                <li>
+                    <u> A wedding Buffet:</u>A buffet is typically more affordable option than sit down dinners. with a buffet you can serve a greaterr variety of food to suit different taste  
+                    and guest able to eat as little as they want. A buffet is a less formal and more laid back choice for wedding food and is perfect for a relaxed reception such as garden wedding.
+                
+                </li>
+
+                <li>
+                    <u>Sit Down Dinner:</u> this is an elegant option. Your guest will be waited on and wont need to leave their tables and this is a good idea you have to reduced mobility.
+                    A formal dinner is thought to be a more generous gesture towards your guest, especially those that have arrived from far away just to attend your wedding.
+                    A ssit down dinner is a sophisticated choice just to impress your guest.
+                </li>
+                <h4>Subscribe to our Blog, so you can see different recipes for this different types of food when we post them.</h4>
+            </p>
+           </h3>
+
+        </div>
+        
+        
+        
+        
+    </div>
+
+   <footer>
+    <a href='facebook.com'> <img src="./image/fb.png"></a>
+    <a href='gmail.com'><img src="./image/gmail.png"></a>
+    <a href='twitter.com'><img src="./image/twitter.png"></a>
+    <h4>(c) 2022. Esohe Precious. All Right Reserved.</h4>
+   </footer>
+</body>  
+
+</head>
+</html>
